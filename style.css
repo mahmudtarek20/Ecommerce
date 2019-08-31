@@ -1,0 +1,38 @@
+/*Login form css*/
+.reg-form {
+	float: left;
+	width: 100%;
+}
+.reg-field{
+	width: 100%;
+	padding: 8px;
+	font-size: 14px;
+	font-weight: 400;
+	border: 1px solid #e6e6e6;
+	outline: none;
+	color: #000;
+}
+
+.cart.box_1 {
+    display: flex;
+}
+form.navbar-form {
+    margin: 0px;
+}
+div.cart.box_1 a {
+    padding: 8px;
+}
+div.single-post img {
+    width: 150px;
+    height: 200px;
+}
+.single-post {
+    height: 303px;
+    width: 100%;
+    text-align: center;
+    border: 1px solid #ece3e3;
+    margin: 10px;
+}
+.single-post a{
+	text-decoration: none;
+}
